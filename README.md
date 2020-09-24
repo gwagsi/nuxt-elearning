@@ -3,6 +3,9 @@
 ## Build Setup
 
 ```bash
+# clone respository
+git@github.com:gwagsi/nuxt-elearning.git
+cd nuxt-elearning
 # install dependencies
 $ npm install
 
